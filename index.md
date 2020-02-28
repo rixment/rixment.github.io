@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Projects
+
+### Rocket Craze
+<img src="./rocketcraze/img/001.png" width="200"> <img src="./rocketcraze/img/002.png" width="200"> <img src="./rocketcraze/img/003.png" width="200">
 
 You can use the [editor on GitHub](https://github.com/rixment/rixment.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
