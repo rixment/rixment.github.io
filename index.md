@@ -2,8 +2,7 @@
 
 ### Rocket Craze
 
-Arcade based game where the player builds and fly the rocket with the aim to reach the Moon.<br>
-Written in Java on top of Android SDK layer.
+**About** Arcade based game where the player builds and fly the rocket with the aim to reach the Moon.<br>
 
 **Technologies** Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase
 
