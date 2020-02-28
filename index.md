@@ -4,7 +4,7 @@
 
 **About** Arcade based game where the player builds and fly the rocket with the aim to reach the Moon.<br>
 
-**Technologies** Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase
+**Technologies** Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase, Git, GIMP
 
 <p align="center"><img src="./rocketcraze/img/001.png" width="250"> <img src="./rocketcraze/img/001.gif" width="250"> <img src="./rocketcraze/img/003.png" width="250"></p> 
 
@@ -14,7 +14,7 @@
 
 **About** 
 
-**Technologies** 
+**Technologies** Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 
 <p align="center"><img src="./rocketcraze3d/img/001.png" width="200"> <img src="./rocketcraze3d/img/002.png" width="200"> <img src="./rocketcraze3d/img/003.png" width="200"></p> 
 
