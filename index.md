@@ -2,6 +2,9 @@
 
 ### Rocket Craze
 
+Arcade based game where the player builds and fly the rocket with the aim to reach the Moon.<br>
+Written in Java on top of Android SDK layer.
+
 <p align="center"><img src="./rocketcraze/img/001.png" width="200"> <img src="./rocketcraze/img/002.png" width="200"> <img src="./rocketcraze/img/003.png" width="200"></p> 
 
 You can use the [editor on GitHub](https://github.com/rixment/rixment.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
