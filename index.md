@@ -30,6 +30,12 @@ Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze3d&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
+<p align="center">
+  <a href="mailto:rixment@gmail.com"><img src="https://img.shields.io/badge/email-rixment-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eryk-klebanski" target="_blank"><img src="https://img.shields.io/badge/linkedin-eryk--klebanski-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/rixment" target="_blank"><img src="https://img.shields.io/badge/twitter-@rixment-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 
 
 
@@ -68,3 +74,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
