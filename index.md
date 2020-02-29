@@ -1,8 +1,12 @@
 ## Projects
 
-### Rocket Craze
+### Rocket Craze - Android
 
-**About** Arcade based game where the player builds and fly the rocket with the aim to reach the Moon.<br>
+**About** Arcade based game where the player builds and fly the rocket. The aim of the game is to reach the Moon by successively upgrading rocket's components after each flight.<br>
+
+**Description** Creation of the game involved vast set of skills from different areas of expertise. Every aspect of the game was solely created by me - starting from such a rudimentary elements as physics based movement, spatial partitioning algorithms and shader's rendering and ending up at design of graphical elements, UI behaviour and creation of music. 
+
+Putting it all together was quite a feat involving countless hours of hard work and resulted with over 1 million downloads at Google Play Store. 
 
 **Technologies** Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase, Git, GIMP
 
