@@ -1,6 +1,6 @@
 ## Projects
 
-### Rocket Craze - Android
+### Rocket Craze (Android)
 
 **About**<br>
 Arcade based game where the player builds and fly the rocket. The aim of the game is to reach the Moon by successively upgrading rocket's components after each flight.<br>
@@ -17,13 +17,16 @@ Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billi
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
-### Rocket Craze 3D
+### Rocket Craze 3D (Android, iOS)
 
-**About** 
+**About**<br>
 
-**Technologies** Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
+**Description**<br>
 
-<p align="center"><img src="./rocketcraze3d/img/001.png" width="200"> <img src="./rocketcraze3d/img/002.png" width="200"> <img src="./rocketcraze3d/img/003.png" width="200"></p> 
+**Technologies**<br>
+Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
+
+<p align="center"><img src="./rocketcraze3d/img/001.png" width="250"> <img src="./rocketcraze3d/img/002.png" width="250"> <img src="./rocketcraze3d/img/003.png" width="250"></p> 
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze3d&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
