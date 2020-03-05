@@ -24,7 +24,7 @@ Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billi
 **Description**<br>
 
 **Technologies**<br>
-Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
+Unity 3D 5.6, C# 3, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 
 <p align="center"><img src="./rocketcraze3d/img/001.png" width="250"> <img src="./rocketcraze3d/img/002.png" width="250"> <img src="./rocketcraze3d/img/003.png" width="250"></p> 
 
@@ -37,7 +37,7 @@ Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 **Description**<br>
 
 **Technologies**<br>
-Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
+Unity 3D 5.6, C# 5, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 
 <p align="center"><img src="./worldcapsleague/img/001.png" width="250"> <img src="./worldcapsleague/img/002.gif" width="250"> <img src="./worldcapsleague/img/003.png" width="250"></p> 
 
