@@ -8,12 +8,12 @@ Arcade based game where the player builds and fly the rocket. The aim of the gam
 **Description**<br>
 Creation of the game involved vast set of skills from different areas of expertise. Every aspect of the game was solely created by me - starting from such a rudimentary elements as physics based movement, spatial partitioning algorithms and shader's rendering and ending up at design of graphical elements, UI behaviour and creation of music. 
 
-Putting it all together was quite a feat involving countless hours of hard work and resulted with over 1 million downloads at Google Play Store. 
+Putting it all together was quite a feat involving countless hours of hard work and resulted with over 1 million downloads at Google Play Store as well as being chosen for featuring in an Instant "Game of the week" program.
 
 **Technologies**<br>
 Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase, Git, GIMP
 
-<p align="center"><img src="./rocketcraze/img/001.png" width="250"> <img src="./rocketcraze/img/001.gif" width="250"> <img src="./rocketcraze/img/002.png" width="250"></p> 
+<p align="center"><img src="./rocketcraze/img/001.png" width="250"> <img src="./rocketcraze/img/001.gif" width="250"> <img src="./rocketcraze/img/002.png" width="250"><img src="./rocketcraze/img/001.jpg" width="250"></p> 
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
