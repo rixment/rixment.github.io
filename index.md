@@ -13,7 +13,7 @@ Putting it all together was quite a feat involving countless hours of hard work 
 **Technologies**<br>
 Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase, Git, GIMP
 
-<p align="center"><img src="./rocketcraze/img/001.png" width="250"><img src="./rocketcraze/img/001.gif" width="250"><img src="./rocketcraze/img/002.png" width="250"><img src="./rocketcraze/img/001.jpg" width="250"><img src="./rocketcraze/img/002.jpg" width="250"></p> 
+<p align="center"><img src="./rocketcraze/img/001.png" width="250"><img src="./rocketcraze/img/001.gif" width="250"><img src="./rocketcraze/img/002.png" width="250"><img src="./rocketcraze/img/003.png" width="250"><img src="./rocketcraze/img/004.png" width="250"></p> 
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
