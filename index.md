@@ -17,12 +17,13 @@ Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billi
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.game.rocketcraze&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
-### Rocket Craze 3D (Android, iOS)
+### Rocket Craze 3D (Android, iOS, Windows)
 
 **About**<br>
 The sequel to Rocket Craze engrained in 3d virtual world. The aim of the game, just as in its predecessor, is to reach the Moon with a rocket gradually upgraded by the player after each flight.<br>
 
 **Description**<br>
+Yet again creating the game of this magnitude involved countless hours of hard work as well as having bloodstream caffeine's level high above its limits. Beside of the usual work related with software engineering, in this case C#, the project required from me having an understanding of 3d space and math involved as well as modelling, texturing and above all enlivening all that data using technologies such as Unity and Luxology Modo. The game, just as well its predecessor, was positively received by the gaming community and resulted in over 300 thousands downloads at Google Play Store.
 
 **Technologies**<br>
 Unity, C#, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Firebase, Luxology Modo, Git
