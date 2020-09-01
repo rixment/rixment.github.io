@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="mailto:rixment@gmail.com"><img src="https://img.shields.io/badge/email-rixment-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eryk-klebanski" target="_blank"><img src="https://img.shields.io/badge/linkedin-eryk--klebanski-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/rixment" target="_blank"><img src="https://img.shields.io/badge/twitter-@rixment-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/925394" target="_blank"><img src="https://img.shields.io/badge/stack-925394-orange.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
+
 ## Projects
 
 ### Rocket Craze (Android)
@@ -61,18 +68,3 @@ Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.roundandround&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
 
-<p align="center">
-  <a href="mailto:rixment@gmail.com"><img src="https://img.shields.io/badge/email-rixment-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eryk-klebanski" target="_blank"><img src="https://img.shields.io/badge/linkedin-eryk--klebanski-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/rixment" target="_blank"><img src="https://img.shields.io/badge/twitter-@rixment-blue.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/925394" target="_blank"><img src="https://img.shields.io/badge/stack-925394-orange.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-</p>
-
-You can use the [editor on GitHub](https://github.com/rixment/rixment.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
