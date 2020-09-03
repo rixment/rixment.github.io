@@ -47,7 +47,7 @@ Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Sav
 ### World Caps League (Android, iOS)
 
 **About**<br>
-Mini soccer with the bottle caps as a players and two game-play modes: Human vs Human and Human vs CPU.
+Mini soccer arcade game with the bottle caps as a players. The aim of the game is to win the match at one of the two game-play modes: Human vs Human or Human vs CPU.
 
 **Technologies**<br>
 Unity, C#, Visual Studio, MonoDevelop, Google Admob, Firebase, Luxology Modo, Git
