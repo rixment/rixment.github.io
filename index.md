@@ -18,7 +18,7 @@ Creation of the game involved vast set of skills from different areas of experti
 Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant "Game of the week" and "Top 3 instant plays" programs.
 
 **Technologies**<br>
-Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, Google Admob, Billing, Firebase, Git, GIMP
+Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, GLSL, Google Admob, Billing, Firebase, Git, GIMP
 
 <p align="center"><img src="./rocketcraze/img/001.png" width="250"><img src="./rocketcraze/img/001.gif" width="250"><img src="./rocketcraze/img/002.png" width="250"><br><img src="./rocketcraze/img/003.png" width="250"><img src="./rocketcraze/img/004.png" width="250"></p>
 
@@ -35,7 +35,7 @@ Yet again creating the game of this magnitude involved countless hours of hard w
 The game, just as well its predecessor, was positively received by the gaming community and resulted in over 300 thousands downloads at Google Play Store.
 
 **Technologies**<br>
-Unity, C#, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Firebase, Luxology Modo, Git
+Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Firebase, Luxology Modo, Git
 
 <p align="center"><img src="./rocketcraze3d/img/001.png" width="250"> <img src="./rocketcraze3d/img/002.png" width="250"> <img src="./rocketcraze3d/img/003.png" width="250"></p> 
 
@@ -50,7 +50,7 @@ Unity, C#, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Fireba
 Mini soccer with the bottle caps as a players and two game-play modes: Human vs Human and Human vs CPU.
 
 **Technologies**<br>
-Unity, C#, Visual Studio, MonoDevelop, Luxology Modo, Git
+Unity, C#, Visual Studio, MonoDevelop, Google Admob, Firebase, Luxology Modo, Git
 
 <p align="center"><img src="./worldcapsleague/img/001.png" width="250"> <img src="./worldcapsleague/img/001.gif" width="250"> <img src="./worldcapsleague/img/002.png" width="250"></p> 
 
@@ -62,7 +62,7 @@ Unity, C#, Visual Studio, MonoDevelop, Luxology Modo, Git
 Endless type of arcade game where the player has to drive a car round the scene. The scene itself is set on rotating dish which increases in speed each time the player passes through one of the gates. The aim of the game is to gather as many speeding tickets as possible which are admitted when passing through the gates.
 
 **Technologies**<br>
-Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
+Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Firebase, Luxology Modo, Git
 
 <p align="center"><img src="./roundandround/img/001.png" width="250"> <img src="./roundandround/img/001.gif" width="250"> <img src="./roundandround/img/002.png" width="250"></p> 
 
