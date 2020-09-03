@@ -59,7 +59,7 @@ Unity, C#, Visual Studio, MonoDevelop, Google Admob, Firebase, Luxology Modo, Gi
 ### Round And Round (Android, iOS)
 
 **About**<br>
-Endless type of arcade game where the player has to drive a car round the scene. The scene itself is set on rotating dish which increases in speed each time the player passes through one of the gates. The aim of the game is to gather as many speeding tickets as possible which are admitted when passing through the gates.
+Endless type of an arcade game in which the player drives a car round the scene. The scene itself is set on a rotating dish which increases in speed each time the player passes through one of the gates in the brick wall. The aim of the game is to collect as many speeding tickets as possible which are admitted when passing through the gates.
 
 **Technologies**<br>
 Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Firebase, Play Games Services, Luxology Modo, Git
