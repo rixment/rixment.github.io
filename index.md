@@ -47,7 +47,7 @@ Unity, C#, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Fireba
 ### World Caps League (Android, iOS)
 
 **About**<br>
-
+Mini soccer with the bottle caps as a players and two game-play modes: Human vs Human and Human vs CPU.
 
 **Technologies**<br>
 Unity, C#, Visual Studio, MonoDevelop, Luxology Modo, Git
@@ -59,7 +59,7 @@ Unity, C#, Visual Studio, MonoDevelop, Luxology Modo, Git
 ### Round And Round (Android, iOS)
 
 **About**<br>
-
+Endless type of arcade game where the player has to drive a car round the scene. The scene itself is set on rotating dish which increases in speed each time the player passes through one of the gates. The aim of the game is to gather as many speeding tickets as possible which are admitted when passing through the gates.
 
 **Technologies**<br>
 Unity 3D 5.6, C# 4, Visual Studio, MonoDevelop, Luxology Modo 7, Git
