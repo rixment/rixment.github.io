@@ -5,6 +5,21 @@
   <a href="https://stackoverflow.com/users/925394" target="_blank"><img src="https://img.shields.io/badge/stack-925394-orange.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
+## Profile
+
+### Knowledge
+
+- C/C++, Java, C#, JS/TS
+- Unity, Android SDK, Android Studio, Visual Studio, VS Code, MonoDevelop, React, GCP, Git
+- Shaders, OpenGL ES 2.0
+- Luxology Modo, GIMP
+
+### Spoken languages
+
+- Polish - native
+- English - proficient
+- Spanish - lower intermediate
+
 ## Projects
 
 ### Rocket Craze (Android)
