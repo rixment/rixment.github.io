@@ -12,7 +12,7 @@ Software developer with 10+ years of hands-on experience around different areas 
 
 ### Knowledge
 - C/C++, Java, C#, JS/TS
-- Unity, Android SDK, Android Studio, Visual Studio, VS Code, MonoDevelop, React, GCP, Git
+- Unity, Android SDK, Android Studio, Visual Studio, VS Code, MonoDevelop, React, Google Cloud Platform, Git
 - Shaders, OpenGL ES 2.0
 - Luxology Modo, GIMP
 
