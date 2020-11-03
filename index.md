@@ -1,7 +1,7 @@
 <p align="center">
   <a href="mailto:rixment@gmail.com"><img src="https://img.shields.io/badge/email-rixment-green.svg?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eryk-klebanski" target="_blank"><img src="https://img.shields.io/badge/linkedin-eryk--klebanski-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="./resume/klebanski_eryk_cv.pdf" target="_blank"><img src="https://img.shields.io/badge/pdf-resume-red.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a></br>
+  <a href="./resume/klebanski_eryk_cv.pdf" target="_blank"><img src="https://img.shields.io/badge/pdf-resume-red.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a><br>
   <a href="https://github.com/rixment" target="_blank"><img src="https://img.shields.io/badge/github-rixment-violet.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/925394" target="_blank"><img src="https://img.shields.io/badge/stack-925394-orange.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
