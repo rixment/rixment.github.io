@@ -24,7 +24,7 @@ Software developer with 10+ years of hands-on experience around different areas 
 
 ## Projects
 
-### alfavet24.pl
+### [alfavet24.pl](https://alfavet24.pl)
 
 **About**<br>
 Webpage writen for veterinarian clinic located in Rzeszow, Poland. 
