@@ -24,6 +24,17 @@ Software developer with 10+ years of hands-on experience around different areas 
 
 ## Projects
 
+### alfavet24.pl
+
+**About**<br>
+Webpage writen for veterinarian clinic located in Rzeszow, Poland. 
+
+**Description**<br>
+The front-end part was created using a combination of React and Typescript as well as some third party modules such as React Bootstrap (Carousel component), Firebase Auth/Firestore (storing chat data) and nodemailer for sending an automated emails. The project also included a chat client writen in React and Electron. The communication between the website and the chat client is executed via Firebase Firestore with the help of react-firebase-hooks which trigger automatic refresh of the front-end content upon the changes occurring in the database. At the end of a chat session the client's application is responsible for sending an autoamted email to the oweners of the clinic with the chat's summar
+
+**Technologies**<br>
+React, JS/TS, GCP, Firebase, Auth, Firestore, Electron, VS Code, Git, GIMP, Inkscape 
+
 ### Rocket Craze (Android)
 
 **About**<br>
@@ -84,4 +95,3 @@ Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Firebase, Play Gam
 <p align="center"><img src="./roundandround/img/001.png" width="250"> <img src="./roundandround/img/001.gif" width="250"> <img src="./roundandround/img/002.png" width="250"></p> 
 
 <p align="center"><a href='https://play.google.com/store/apps/details?id=com.rixment.roundandround&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300"/></a></p>
-
