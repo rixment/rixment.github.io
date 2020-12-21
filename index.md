@@ -12,10 +12,11 @@
 Software developer with 10+ years of hands-on experience around different areas of computer science. Interested in learning new technologies as well as elevating my inter-personal skills. Spanish learner enthusiast.
 
 ### Knowledge
-- C/C++, Java, C#, JS/TS
+- C/C++, Java, C#, JS/TS, Kotlin, Golang
 - Unity, Android SDK, Android Studio, Visual Studio, VS Code, MonoDevelop, React, Google Cloud Platform, Git
 - Shaders, OpenGL ES 2.0
 - Luxology Modo, GIMP
+- the list goes on...
 
 ### Spoken languages
 - Polish - native
