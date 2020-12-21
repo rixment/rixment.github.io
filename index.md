@@ -35,7 +35,7 @@ The front-end part was created using a combination of React and Typescript as we
 **Technologies**<br>
 React, JS/TS, GCP, Firebase, Auth, Firestore, Electron, VS Code, Git, GIMP, Inkscape 
 
-<p align="center"><img src="./alfavet24/alfavet24_001.jpg" width="400"><img src="./alfavet24/alfavet24_002.jpg" width="400"></p> 
+<p align="center"><img src="./alfavet24/alfavet24_001.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./alfavet24/alfavet24_002.jpg" width="400"></p> 
 
 ### Rocket Craze (Android)
 
