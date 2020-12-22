@@ -9,7 +9,7 @@
 ## Profile
 
 ### About
-Software developer with 10+ years of hands-on experience in different areas of computer science. Interested in learning new technologies as well as elevating my inter-personal skills. Spanish learner enthusiast.
+Software engineer with over 10 years of hands-on experience in various areas of software development. Interested in learning new technologies as well as elevating inter-personal skills. Spanishlearner enthusiast
 
 ### Knowledge
 - C/C++, Java, C#, JS/TS, Kotlin, Golang
