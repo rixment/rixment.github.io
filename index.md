@@ -46,7 +46,7 @@ Arcade based game where the player builds and fly the rocket. The aim of the gam
 **Description**<br>
 Creation of the game involved vast set of skills from different areas of expertise. Every aspect of the game was solely created by me - starting from such a rudimentary elements as physics based movement, spatial partitioning algorithms and shader's rendering and ending up at design of graphical elements, UI behaviour and creation of music. 
 
-Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant "Game of the week" and "Top 3 instant plays" programs.
+Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games..
 
 **Technologies**<br>
 Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, GLSL, Google Admob, Billing, Firebase, Play Games Services, Git, GIMP
@@ -63,7 +63,7 @@ The sequel to Rocket Craze engrained in 3d virtual world. The aim of the game, j
 **Description**<br>
 Yet again creating the game of this magnitude involved countless hours of hard work as well as having bloodstream caffeine's level high above its limits. Beside of the usual work related with software engineering, in this case C#, the project required from me having an understanding of 3d space and math involved as well as modelling, texturing and above all enlivening all that data using gaming technology's standards such as Unity and Luxology Modo.
 
-The game, just as well its predecessor, was positively received by the gaming community and resulted in over 300 thousands downloads at Google Play Store.
+The game, just as well its predecessor, was positively received by the gaming community and resulted in over 300 thousands downloads at Google Play Store. In addition to that it  has been featured in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
 
 **Technologies**<br>
 Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Firebase, Play Games Services, Luxology Modo, Git
