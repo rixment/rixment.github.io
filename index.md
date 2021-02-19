@@ -46,7 +46,7 @@ Arcade based game where the player builds and fly the rocket. The aim of the gam
 **Description**<br>
 Creation of the game involved vast set of skills from different areas of expertise. Every aspect of the game was solely created by me - starting from such a rudimentary elements as physics based movement, spatial partitioning algorithms and shader's rendering and ending up at design of graphical elements, UI behaviour and creation of music. 
 
-Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games..
+Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
 
 **Technologies**<br>
 Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, GLSL, Google Admob, Billing, Firebase, Play Games Services, Git, GIMP
