@@ -31,7 +31,7 @@ Software engineer with over 10 years of hands-on experience in various areas of 
 Webpage written for veterinarian clinic located in Rzeszow, Poland. 
 
 **Description**<br>
-The front-end part was created using a combination of React and Typescript as well as some third party modules such as React Bootstrap (Carousel component), Firebase Auth/Firestore (storing chat data) and nodemailer for sending an automated emails. The project also included a chat client written in React and Electron. The communication between the website and the chat client is executed via Firebase Firestore with the help of react-firebase-hooks which trigger automatic refresh of the front-end content upon the changes occurring in the database. At the end of a chat session the client's application is responsible for sending an autoamted email to the oweners of the clinic with the chat's summar
+The front-end part was created using a combination of React and Typescript as well as some third party modules such as React Bootstrap (Carousel component), Firebase Auth/Firestore (storing chat data) and nodemailer for sending an automated emails. The project also included a chat client written in React and Electron. The communication between the website and the chat client is executed via Firebase Firestore with the help of react-firebase-hooks which trigger automatic refresh of the front-end content upon the changes occurring in the database. At the end of a chat session the client's application is responsible for sending an autoamted email to the oweners of the clinic with the chat's summary.
 
 **Technologies**<br>
 React, JS/TS, GCP, Firebase, Auth, Firestore, Electron, VS Code, Git, GIMP, Inkscape 
@@ -46,7 +46,7 @@ Arcade based game where the player builds and fly the rocket. The aim of the gam
 **Description**<br>
 Creation of the game involved vast set of skills from different areas of expertise. Every aspect of the game was solely created by me - starting from such a rudimentary elements as physics based movement, spatial partitioning algorithms and shader's rendering and ending up at design of graphical elements, UI behaviour and creation of music. 
 
-Putting it all together was quite a feat involving countless hours of hard work and resulted with over 3 millions players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
+Putting it all together was quite a feat involving countless hours of hard work and resulted with over **3 million** players enojoying the game at Google Play Store. It also has been chosen for featuring in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
 
 **Technologies**<br>
 Android SDK, Android Studio, Java 1.8 (JDK8), OpenGL ES 2.0, GLSL, Google Admob, Billing, Firebase, Play Games Services, Git, GIMP
@@ -63,7 +63,7 @@ The sequel to Rocket Craze engrained in 3d virtual world. The aim of the game, j
 **Description**<br>
 Yet again creating the game of this magnitude involved countless hours of hard work as well as having bloodstream caffeine's level high above its limits. Beside of the usual work related with software engineering, in this case C#, the project required from me having an understanding of 3d space and math involved as well as modelling, texturing and above all enlivening all that data using gaming technology's standards such as Unity and Luxology Modo.
 
-The game, just as well its predecessor, was positively received by the gaming community and resulted in over 300 thousands downloads at Google Play Store. In addition to that it  has been featured in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
+The game, just as well its predecessor, was positively received by the gaming community and resulted in over **1 million** players enjoying playing it at Google Play Store. In addition to that it  has been featured in an Instant **Game of the week** and **Top 3 instant plays** sections at Google Play Games.
 
 **Technologies**<br>
 Unity, C#, Cg/HLSL, Visual Studio, MonoDevelop, Google Admob, Billing, Cloud Save, Firebase, Play Games Services, Luxology Modo, Git
