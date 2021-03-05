@@ -9,14 +9,15 @@
 ## Profile
 
 ### About
-Software engineer with over 10 years of hands-on experience in various areas of software development. Interested in learning new technologies as well as elevating inter-personal skills. Spanishlearner enthusiast
+Software engineer with over 15 years of hands-on experience in various areas of software development. Interested in learning new technologies as well as elevating inter-personal skills. Spanishlearner enthusiast
 
 ### Knowledge
 - C/C++, Java, C#, JS/TS, Kotlin, Golang
-- Unity, Android SDK, Android Studio, Visual Studio, VS Code, MonoDevelop, React, Electron, Google Cloud Platform, Git
-- Shaders, OpenGL ES 2.0
+- Unity, Android Studio, Visual Studio, VS Code, MonoDevelop, Eclipse, Vim
+- Android SDK, React, Electron, NextJS, Strapi
+- Google Firebase, Google Cloud Platform, Git
+- Shaders, OpenGL
 - Luxology Modo, GIMP
-- the list goes on...
 
 ### Spoken languages
 - Polish - native
